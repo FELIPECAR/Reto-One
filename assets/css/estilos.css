@@ -1,0 +1,19 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.border-primary {
+    background-color: hsl(180, 62%, 55%) !important; /* -> Cyan */
+}
+
+.border-secondary {
+    background-color: hsl(212, 86%, 64%) !important; /* -> blue */
+}
+
+.border-danger {
+    background-color: hsl(0, 78%, 62%)  !important; /* -> red */
+}
+
+.border-warning {
+    background-color: hsl(34, 97%, 64%)  !important; /* -> orange */
+}
