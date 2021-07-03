@@ -17,3 +17,11 @@ body {
 .border-warning {
     border-color: hsl(34, 97%, 64%)  !important; /* -> orange */
 }
+
+.h-10{
+    height: 50px;
+}
+
+.w-10{
+    width: 50px;
+}
